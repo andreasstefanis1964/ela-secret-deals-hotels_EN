@@ -1676,10 +1676,10 @@ img {
 }
 .cid-uLLKeD9ryi .form-wrap .dragArea.row .form-group .form-control:hover,
 .cid-uLLKeD9ryi .form-wrap .dragArea.row .form-group .form-control:focus {
-  border: 1px solid #000000 !important;
+  border: 1px solid #125f94 !important;
 }
 .cid-uLLKeD9ryi .form-wrap .dragArea.row .form-group .form-control::placeholder {
-  color: #000000;
+  color: #125f94;
 }
 .cid-uLLKeD9ryi .form-wrap .dragArea.row .form-group textarea {
   min-height: 150px;
