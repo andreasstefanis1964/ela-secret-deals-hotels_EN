@@ -1627,15 +1627,15 @@ img {
 .cid-tMfdQnt0C7 .card-text {
   color: #262642;
 }
-.cid-tMfdZrQBYD {
+.cid-uLLKeD9ryi {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #dae5f8;
 }
-.cid-tMfdZrQBYD .mbr-fallback-image.disabled {
+.cid-uLLKeD9ryi .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tMfdZrQBYD .mbr-fallback-image {
+.cid-uLLKeD9ryi .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1645,70 +1645,69 @@ img {
   top: 0;
 }
 @media (max-width: 992px) {
-  .cid-tMfdZrQBYD .container {
-    padding: 0 24px;
+  .cid-uLLKeD9ryi .container {
+    padding: 0 22px;
   }
 }
-.cid-tMfdZrQBYD .row {
-  justify-content: center;
+.cid-uLLKeD9ryi .row {
+  justify-content: space-between;
 }
-.cid-tMfdZrQBYD .form-wrapper .row.dragArea .mbr-section-title {
+.cid-uLLKeD9ryi .content-wrapper .mbr-section-title {
+  margin-bottom: 16px;
+}
+.cid-uLLKeD9ryi .content-wrapper .mbr-text {
+  margin-bottom: 16px;
+}
+.cid-uLLKeD9ryi .form-wrap .dragArea.row .mbr-section-title {
   margin-bottom: 16px !important;
 }
-.cid-tMfdZrQBYD .form-wrapper .row.dragArea .mbr-text {
-  margin-bottom: 32px !important;
+.cid-uLLKeD9ryi .form-wrap .dragArea.row .mbr-text {
+  margin-bottom: 16px;
 }
-.cid-tMfdZrQBYD .form-wrapper .row.dragArea .form-group {
-  margin-bottom: 32px !important;
+.cid-uLLKeD9ryi .form-wrap .dragArea.row .form-group {
+  margin-bottom: 16px !important;
 }
-.cid-tMfdZrQBYD .form-wrapper .row.dragArea .form-group .form-control {
-  background-color: #ffffff;
-  padding: 32px;
+.cid-uLLKeD9ryi .form-wrap .dragArea.row .form-group .form-control {
+  padding: 16px;
+  border: 1px solid #d4d3d3 !important;
   box-shadow: none;
-  border: 2px solid transparent !important;
-  border-radius: 16px !important;
-  transition: all 0.3s ease-in-out;
+  border-radius: 0 !important;
+  background-color: transparent;
 }
-@media (max-width: 992px) {
-  .cid-tMfdZrQBYD .form-wrapper .row.dragArea .form-group .form-control {
-    padding: 16px;
-  }
+.cid-uLLKeD9ryi .form-wrap .dragArea.row .form-group .form-control:hover,
+.cid-uLLKeD9ryi .form-wrap .dragArea.row .form-group .form-control:focus {
+  border: 1px solid #000000 !important;
 }
-.cid-tMfdZrQBYD .form-wrapper .row.dragArea .form-group .form-control::placeholder {
-  color: #dae5f8;
+.cid-uLLKeD9ryi .form-wrap .dragArea.row .form-group .form-control::placeholder {
+  color: #000000;
 }
-.cid-tMfdZrQBYD .form-wrapper .row.dragArea .form-group .form-control:hover,
-.cid-tMfdZrQBYD .form-wrapper .row.dragArea .form-group .form-control:focus {
-  box-shadow: none;
-  border: 2px solid #caa912 !important;
-}
-.cid-tMfdZrQBYD .form-wrapper .row.dragArea .form-group textarea.form-control {
+.cid-uLLKeD9ryi .form-wrap .dragArea.row .form-group textarea {
   min-height: 150px;
 }
-.cid-tMfdZrQBYD .form-wrapper .row.dragArea .form-group .form-check {
-  padding-left: 2.1em;
-  margin-bottom: 16px !important;
+.cid-uLLKeD9ryi .form-wrap .dragArea.row .form-group .form-check {
+  padding-left: 1.9em;
+  margin-bottom: 16px;
 }
-.cid-tMfdZrQBYD .form-wrapper .row.dragArea .form-group .form-check .form-check-input {
-  background-color: #caa912;
-  border-color: #caa912;
+.cid-uLLKeD9ryi .form-wrap .dragArea.row .form-group .form-check .form-check-input {
+  background-color: transparent;
+  border-color: #d4d3d3;
+  border-radius: 0;
 }
-.cid-tMfdZrQBYD .form-wrapper .row.dragArea .mbr-section-btn {
-  width: 100%;
+.cid-uLLKeD9ryi .form-wrap .dragArea.row .form-group .form-check .form-check-input:focus {
+  background-color: #d4d3d3;
 }
-.cid-tMfdZrQBYD .form-wrapper .row.dragArea .mbr-section-btn .btn {
-  width: 100%;
+.cid-uLLKeD9ryi .form-wrap .dragArea.row .mbr-section-btn .btn {
+  margin-top: 16px;
+  min-height: auto;
 }
-.cid-tMfdZrQBYD .mbr-section-title {
+.cid-uLLKeD9ryi .mbr-section-title {
   color: #125f94;
-  text-align: center;
 }
-.cid-tMfdZrQBYD .mbr-text {
+.cid-uLLKeD9ryi .mbr-text {
   color: #caa912;
-  text-align: center;
 }
-.cid-tMfdZrQBYD label {
-  color: #262642;
+.cid-uLLKeD9ryi label {
+  color: #000000;
 }
 .cid-uLLcw58jko {
   padding-top: 6rem;
